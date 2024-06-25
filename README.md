@@ -47,12 +47,12 @@
 
 ## About The Project
 </br>
-* Building A (212 Host=> Tree Topology)
- &nbsp; &nbsp; Network IP: 193.158.1.0
- &nbsp; &nbsp; Fist Valid IP: 193.158.1.1  Saved For The Router
- &nbsp; &nbsp; Last Valid IP: 2N+Net-2 = 28+0-2 = 254 = 193.158.1.254
- &nbsp; &nbsp; Broadcast IP = 193.158.1.255
- &nbsp; &nbsp; Subnet Mask: 255.255.255.0
+* Building A (212 Host=> Tree Topology) </br>
+ &nbsp; &nbsp; Network IP: 193.158.1.0 </br>
+ &nbsp; &nbsp; Fist Valid IP: 193.158.1.1  Saved For The Router </br>
+ &nbsp; &nbsp; Last Valid IP: 2N+Net-2 = 28+0-2 = 254 = 193.158.1.254 </br>
+ &nbsp; &nbsp; Broadcast IP = 193.158.1.255 </br>
+ &nbsp; &nbsp; Subnet Mask: 255.255.255.0 </br>
 ![image](https://github.com/Arsany-Osama/Network-Simulation/assets/160052013/9fcd060e-8996-41cb-82b7-8f1aa1affc70)
 
 </br></br>
