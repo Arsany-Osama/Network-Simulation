@@ -53,6 +53,7 @@
  &nbsp; &nbsp; Last Valid IP: 2N+Net-2 = 28+0-2 = 254 = 193.158.1.254 </br>
  &nbsp; &nbsp; Broadcast IP = 193.158.1.255 </br>
  &nbsp; &nbsp; Subnet Mask: 255.255.255.0 </br>
+ 
 ![image](https://github.com/Arsany-Osama/Network-Simulation/assets/160052013/9fcd060e-8996-41cb-82b7-8f1aa1affc70)
 
 </br></br>
