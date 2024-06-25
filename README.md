@@ -69,7 +69,8 @@
   &nbsp; &nbsp; Last Valid IP: 2N+Net-2 = 25+32-2 = 62 = 193.158.2.62 </br>
   &nbsp; &nbsp; Broadcast IP = 193.158.2.63 </br>
   &nbsp; &nbsp; Subnet Mask: 255.255.255.11100000 = 255.255.255.224 </br>
-  ![image](https://github.com/Arsany-Osama/Network-Simulation/assets/160052013/39aedb8a-56d3-458b-a586-a9699d4418e2)
+![image](https://github.com/Arsany-Osama/Network-Simulation/assets/160052013/453d72a2-7958-466e-8904-da269fefc000)
+
 
 </br></br>
 * Building C (47 Host=> Ring Topology) </br>
