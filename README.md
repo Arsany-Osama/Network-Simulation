@@ -48,54 +48,54 @@
 ## About The Project
 </br>
 * Building A (212 Host=> Tree Topology)
-  Network IP: 193.158.1.0
-  Fist Valid IP: 193.158.1.1  Saved For The Router
-  Last Valid IP: 2N+Net-2 = 28+0-2 = 254 = 193.158.1.254
-  Broadcast IP = 193.158.1.255
-  Subnet Mask: 255.255.255.0
+ &nbsp; &nbsp; Network IP: 193.158.1.0
+ &nbsp; &nbsp; Fist Valid IP: 193.158.1.1  Saved For The Router
+ &nbsp; &nbsp; Last Valid IP: 2N+Net-2 = 28+0-2 = 254 = 193.158.1.254
+ &nbsp; &nbsp; Broadcast IP = 193.158.1.255
+ &nbsp; &nbsp; Subnet Mask: 255.255.255.0
 ![image](https://github.com/Arsany-Osama/Network-Simulation/assets/160052013/9fcd060e-8996-41cb-82b7-8f1aa1affc70)
 
 </br></br>
-* Building B with VLAN(36 Host=> Star Topology)
-  VLAN 10 (18 Host)
-    Network IP: 193.158.2.0
-    Fist Valid IP: 193.158.2.1  Saved For The Gatway
-    Last Valid IP: 2N+Net-2 = 25+0-2 = 30 = 193.158.2.30
-    Broadcast IP = 193.158.2.31
-    Subnet Mask: 255.255.255.11100000 = 255.255.255.224
-  VLAN 20 (18 Host)
-    Network IP: 193.158.2.32
-    Fist Valid IP: 193.158.2.33  Saved For The Gatway
-    Last Valid IP: 2N+Net-2 = 25+32-2 = 62 = 193.158.2.62
-    Broadcast IP = 193.158.2.63
-    Subnet Mask: 255.255.255.11100000 = 255.255.255.224
+* Building B with VLAN(36 Host=> Star Topology) </br>
+  &nbsp; &nbsp; VLAN 10 (18 Host) </br>
+  &nbsp; &nbsp;&nbsp; &nbsp;  Network IP: 193.158.2.0 </br>
+  &nbsp; &nbsp;&nbsp; &nbsp;  Fist Valid IP: 193.158.2.1  Saved For The Gatway </br>
+  &nbsp; &nbsp;&nbsp; &nbsp;  Last Valid IP: 2N+Net-2 = 25+0-2 = 30 = 193.158.2.30 </br>
+  &nbsp; &nbsp;&nbsp; &nbsp;  Broadcast IP = 193.158.2.31 </br>
+  &nbsp; &nbsp;&nbsp; &nbsp;  Subnet Mask: 255.255.255.11100000 = 255.255.255.224 </br>
+  &nbsp; &nbsp; VLAN 20 (18 Host) </br>
+  &nbsp; &nbsp; Network IP: 193.158.2.32 </br>
+  &nbsp; &nbsp; Fist Valid IP: 193.158.2.33  Saved For The Gatway </br>
+  &nbsp; &nbsp; Last Valid IP: 2N+Net-2 = 25+32-2 = 62 = 193.158.2.62 </br>
+  &nbsp; &nbsp; Broadcast IP = 193.158.2.63 </br>
+  &nbsp; &nbsp; Subnet Mask: 255.255.255.11100000 = 255.255.255.224 </br>
   ![image](https://github.com/Arsany-Osama/Network-Simulation/assets/160052013/39aedb8a-56d3-458b-a586-a9699d4418e2)
 
 </br></br>
-* Building C (47 Host=> Ring Topology)
-    Network IP: 193.158.2.64
-    Fist Valid IP: 193.158.2.65  Saved For The Gatway
-    Last Valid IP: 2N+Net-2 = 26+64-2 = 126 = 193.158.2.126
-    Broadcast IP = 193.158.2.127
-    Subnet Mask: 255.255.255.11000000 = 255.255.255.192
+* Building C (47 Host=> Ring Topology) </br>
+  &nbsp; &nbsp;  Network IP: 193.158.2.64 </br>
+  &nbsp; &nbsp;  Fist Valid IP: 193.158.2.65  Saved For The Gatway </br>
+  &nbsp; &nbsp;  Last Valid IP: 2N+Net-2 = 26+64-2 = 126 = 193.158.2.126 </br>
+  &nbsp; &nbsp;   Broadcast IP = 193.158.2.127 </br>
+  &nbsp; &nbsp;  Subnet Mask: 255.255.255.11000000 = 255.255.255.192 </br>
   ![image](https://github.com/Arsany-Osama/Network-Simulation/assets/160052013/01c6be5a-470a-4a2a-bed2-3d0de8e8cebf)
 
 </br></br>
-* Building D (125 Host=> Bus Topology)
-  Network IP: 193.158.2.123
-  Fist Valid IP: 193.158.2.124  Saved For The Gatway
-  Last Valid IP: 26+128-2 = 126 = 193.158.2.254
-  Broadcast IP = 193.158.2.255
-  Subnet Mask: 255.255.255.10000000 = 255.255.255.128
+* Building D (125 Host=> Bus Topology) </br>
+ &nbsp; &nbsp; Network IP: 193.158.2.123 </br>
+ &nbsp; &nbsp; Fist Valid IP: 193.158.2.124  Saved For The Gatway </br>
+ &nbsp; &nbsp; Last Valid IP: 26+128-2 = 126 = 193.158.2.254 </br>
+ &nbsp; &nbsp; Broadcast IP = 193.158.2.255 </br>
+ &nbsp; &nbsp; Subnet Mask: 255.255.255.10000000 = 255.255.255.128 </br>
 ![image](https://github.com/Arsany-Osama/Network-Simulation/assets/160052013/fd999938-15de-456d-af3e-2e31cd948cbc)
 
 </br></br>
-* Building E (125 Host=> Mesh Topology)
-  Network IP: 193.158.3.0
-  Fist Valid IP: 193.158.3.1 
-  Last Valid IP: 2N+Net-2 = 28+0-2 = 254 = 193.158.1.254
-  Broadcast IP = 193.158.1.255
-  Subnet Mask: 255.255.255.0
+* Building E (125 Host=> Mesh Topology) </br>
+ &nbsp; &nbsp; Network IP: 193.158.3.0 </br>
+ &nbsp; &nbsp; Fist Valid IP: 193.158.3.1  </br>
+ &nbsp; &nbsp; Last Valid IP: 2N+Net-2 = 28+0-2 = 254 = 193.158.1.254 </br>
+ &nbsp; &nbsp; Broadcast IP = 193.158.1.255 </br>
+ &nbsp; &nbsp; Subnet Mask: 255.255.255.0 </br>
 ![image](https://github.com/Arsany-Osama/Network-Simulation/assets/160052013/92002964-e02a-4ab6-9d07-ec89421b966f)
 
 
