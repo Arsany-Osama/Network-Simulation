@@ -65,12 +65,14 @@
   &nbsp; &nbsp;&nbsp; &nbsp;  Broadcast IP = 193.158.2.31 </br>
   &nbsp; &nbsp;&nbsp; &nbsp;  Subnet Mask: 255.255.255.11100000 = 255.255.255.224 </br>
   &nbsp; &nbsp; VLAN 20 (18 Host) </br>
-  &nbsp; &nbsp; Network IP: 193.158.2.32 </br>
-  &nbsp; &nbsp; Fist Valid IP: 193.158.2.33  Saved For The Gatway </br>
-  &nbsp; &nbsp; Last Valid IP: 2N+Net-2 = 25+32-2 = 62 = 193.158.2.62 </br>
-  &nbsp; &nbsp; Broadcast IP = 193.158.2.63 </br>
-  &nbsp; &nbsp; Subnet Mask: 255.255.255.11100000 = 255.255.255.224 </br>
-![image](https://github.com/Arsany-Osama/Network-Simulation/assets/160052013/453d72a2-7958-466e-8904-da269fefc000)
+  &nbsp; &nbsp;&nbsp; &nbsp; Network IP: 193.158.2.32 </br>
+  &nbsp; &nbsp;&nbsp; &nbsp; Fist Valid IP: 193.158.2.33  Saved For The Gatway </br>
+  &nbsp; &nbsp;&nbsp; &nbsp; Last Valid IP: 2N+Net-2 = 25+32-2 = 62 = 193.158.2.62 </br>
+  &nbsp; &nbsp;&nbsp; &nbsp; Broadcast IP = 193.158.2.63 </br>
+  &nbsp; &nbsp;&nbsp; &nbsp; Subnet Mask: 255.255.255.11100000 = 255.255.255.224 </br>
+  
+![image](https://github.com/Arsany-Osama/Network-Simulation/assets/160052013/410694fe-9d78-4be6-962f-e7493915d689)
+
 
 
 </br></br>
