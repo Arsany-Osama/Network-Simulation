@@ -56,7 +56,7 @@
 * Building A (212 Host=> Tree Topology) </br>
  &nbsp; &nbsp; Network IP: 193.158.1.0 </br>
  &nbsp; &nbsp; Fist Valid IP: 193.158.1.1  Saved For The Router </br>
- &nbsp; &nbsp; Last Valid IP: 2N+Net-2 = 28+0-2 = 254 = 193.158.1.254 </br>
+ &nbsp; &nbsp; Last Valid IP: 2^N+Net-2 = 2^8+0-2 = 254 = 193.158.1.254 </br>
  &nbsp; &nbsp; Broadcast IP = 193.158.1.255 </br>
  &nbsp; &nbsp; Subnet Mask: 255.255.255.0 </br>
  
@@ -67,13 +67,13 @@
   &nbsp; &nbsp; VLAN 10 (18 Host) </br>
   &nbsp; &nbsp;&nbsp; &nbsp;  Network IP: 193.158.2.0 </br>
   &nbsp; &nbsp;&nbsp; &nbsp;  Fist Valid IP: 193.158.2.1  Saved For The Gatway </br>
-  &nbsp; &nbsp;&nbsp; &nbsp;  Last Valid IP: 2N+Net-2 = 25+0-2 = 30 = 193.158.2.30 </br>
+  &nbsp; &nbsp;&nbsp; &nbsp;  Last Valid IP: 2^N+Net-2 = 2^5+0-2 = 30 = 193.158.2.30 </br>
   &nbsp; &nbsp;&nbsp; &nbsp;  Broadcast IP = 193.158.2.31 </br>
   &nbsp; &nbsp;&nbsp; &nbsp;  Subnet Mask: 255.255.255.11100000 = 255.255.255.224 </br>
   &nbsp; &nbsp; VLAN 20 (18 Host) </br>
   &nbsp; &nbsp;&nbsp; &nbsp; Network IP: 193.158.2.32 </br>
   &nbsp; &nbsp;&nbsp; &nbsp; Fist Valid IP: 193.158.2.33  Saved For The Gatway </br>
-  &nbsp; &nbsp;&nbsp; &nbsp; Last Valid IP: 2N+Net-2 = 25+32-2 = 62 = 193.158.2.62 </br>
+  &nbsp; &nbsp;&nbsp; &nbsp; Last Valid IP: 2^N+Net-2 = 2^5+32-2 = 62 = 193.158.2.62 </br>
   &nbsp; &nbsp;&nbsp; &nbsp; Broadcast IP = 193.158.2.63 </br>
   &nbsp; &nbsp;&nbsp; &nbsp; Subnet Mask: 255.255.255.11100000 = 255.255.255.224 </br>
   
@@ -85,7 +85,7 @@
 * Building C (47 Host=> Ring Topology) </br>
   &nbsp; &nbsp;  Network IP: 193.158.2.64 </br>
   &nbsp; &nbsp;  Fist Valid IP: 193.158.2.65  Saved For The Gatway </br>
-  &nbsp; &nbsp;  Last Valid IP: 2N+Net-2 = 26+64-2 = 126 = 193.158.2.126 </br>
+  &nbsp; &nbsp;  Last Valid IP: 2^N+Net-2 = 2^6+64-2 = 126 = 193.158.2.126 </br>
   &nbsp; &nbsp;   Broadcast IP = 193.158.2.127 </br>
   &nbsp; &nbsp;  Subnet Mask: 255.255.255.11000000 = 255.255.255.192 </br>
   ![image](https://github.com/Arsany-Osama/Network-Simulation/assets/160052013/01c6be5a-470a-4a2a-bed2-3d0de8e8cebf)
@@ -94,16 +94,16 @@
 * Building D (125 Host=> Bus Topology) </br>
  &nbsp; &nbsp; Network IP: 193.158.2.123 </br>
  &nbsp; &nbsp; Fist Valid IP: 193.158.2.124  Saved For The Gatway </br>
- &nbsp; &nbsp; Last Valid IP: 26+128-2 = 126 = 193.158.2.254 </br>
+ &nbsp; &nbsp; Last Valid IP: 2^6+128-2 = 126 = 193.158.2.254 </br>
  &nbsp; &nbsp; Broadcast IP = 193.158.2.255 </br>
  &nbsp; &nbsp; Subnet Mask: 255.255.255.10000000 = 255.255.255.128 </br>
 ![image](https://github.com/Arsany-Osama/Network-Simulation/assets/160052013/fd999938-15de-456d-af3e-2e31cd948cbc)
 
 </br></br>
-* Building E (125 Host=> Mesh Topology) </br>
+* Building E (212 Host=> Mesh Topology) </br>
  &nbsp; &nbsp; Network IP: 193.158.3.0 </br>
  &nbsp; &nbsp; Fist Valid IP: 193.158.3.1  </br>
- &nbsp; &nbsp; Last Valid IP: 2N+Net-2 = 28+0-2 = 254 = 193.158.1.254 </br>
+ &nbsp; &nbsp; Last Valid IP: 2^N+Net-2 = 2^8+0-2 = 254 = 193.158.1.254 </br>
  &nbsp; &nbsp; Broadcast IP = 193.158.1.255 </br>
  &nbsp; &nbsp; Subnet Mask: 255.255.255.0 </br>
 ![image](https://github.com/Arsany-Osama/Network-Simulation/assets/160052013/92002964-e02a-4ab6-9d07-ec89421b966f)
